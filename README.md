@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HadrienLopes
+- 👀 I’m interested in System programming, Operating System's and RISC-V architecture
+- 🌱 I’m currently learning how to implement a RV32I processor 
+- <img height="25" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> + <img height="25" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png">
