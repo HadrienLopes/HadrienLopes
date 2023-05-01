@@ -6,7 +6,7 @@
 ║ Hadrien  
 ║  
 ║ **bash-3.2$** ls  
-║ introduction readings  
+║ introduction readings skills  
 ║  
 ║ **bash-3.2$** cat introduction  
 ║ Hello there !  
@@ -29,6 +29,12 @@
 ║ ┌ **Other's**  
 ║ ├─── Introduction à l'algorithmique - CLRS (Dunod) ⭐  
 ║ └─── Computer Systems: A Programmer's Perspective (Pearson education)  
+║  
+║ **bash-3.2$** cat skills  
+║ - C / ASM (x86_64)  
+║ - Java / Scala  
+║ - Python  
+║ - OpenQASM / Q#  
 ║  
 ║ **bash-3.2$** exit  
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝  
