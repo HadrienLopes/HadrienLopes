@@ -10,7 +10,7 @@
 ║ -rw-r--r-- 1 hadrien hadrien 042 Jan 29 00:42 internship  
 ║ -rw-r--r-- 1 hadrien hadrien 319 Sep 27 13:37 introduction  
 ║ -rw-r--r-- 1 hadrien hadrien 960 Aug 02 23:32 readings  
-║ -rw-r--r-- 1 hadrien hadrien 058 Jul 14 00:00 skills   
+║ -rw-r--r-- 1 hadrien hadrien 058 Jan 31 00:00 skills   
 ║  
 ║ **bash-4.2$** cat introduction  
 ║ Hi there ! 👋  
