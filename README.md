@@ -1,29 +1,33 @@
+<div align="center">
+
+<h1> ╔══ [ Intro_Term  ] ══╗  </h1>
+</div>
 
 ╔═════════════════════════════════════════════════════════╗  
-║  === [ Introduction_Terminal ] ===  
-║  
 ║ **bash-4.2$** whoami  
 ║ Hadrien  
 ║  
 ║ **bash-4.2$** ls -l  
 ║ total 1337  
-║ -rw-r--r-- 1 hadrien hadrien 042 Jan 29 00:42 internship  
-║ -rw-r--r-- 1 hadrien hadrien 319 Sep 27 13:37 introduction  
-║ -rw-r--r-- 1 hadrien hadrien 960 Aug 02 23:32 readings  
-║ -rw-r--r-- 1 hadrien hadrien 058 Jan 31 00:00 skills   
+║ -rw-r--r-- 1 hadrien hadrien 185 Jan 29 00:42 Internship  
+║ -rw-r--r-- 1 hadrien hadrien 355 Sep 27 13:37 Introduction  
+║ -rw-r--r-- 1 hadrien hadrien 574 Aug 02 23:32 Readings  
+║ -rw-r--r-- 1 hadrien hadrien 102 Jan 31 00:00 Skills   
 ║  
-║ **bash-4.2$** cat introduction  
+║ **bash-4.2$** cat Introduction  
 ║ Hi there ! 👋  
 ║ I’m student in computer science interested in **Operating systems**,  
 ║ **System architecture** and **Quantum computing**.  
-║ I’m currently creating a new **Operating System** and learning **Quantum programming**.  
+║ I’m currently creating a new **Operating System** and a RISC-V processor (**RV64IM**).  
+║ I'm also learning **Quantum programming** using OpenQASM.  
 ║ I love astronomy, physics and aeronautics (Pilot, I fly on Cessna 150/172 🛩️)  
 ║  
-║ **bash-4.2$** cat internship  
-║ Internship at IRISA laboratory (Brittany, France)  
-║ During my internship I have made and implementated a RISC-V (**RV32I**) processor on FPGA  
+║ **bash-4.2$** cat Internship  
+║ Internship at IRISA laboratory (Brittany, France):  
+║ During my internship I've made and implementated a RISC-V (**RV32I**) processor on FPGA for educational purposes.  
+║ I've also designed a pipeline viewer for [**RARS**](https://github.com/TheThirdOne/rars) (using [**Konata**](https://github.com/shioyadan/Konata)).  
 ║  
-║ **bash-4.2$** cat readings  
+║ **bash-4.2$** cat Readings  
 ║ ┌ **Quantum computing books**  
 ║ ├─── [Quantum](https://exo7math.github.io/quantum-exo7/) (exo7) ⭐   
 ║ ├─── Quantum Computing in action  (Manning Publications)  
@@ -38,8 +42,8 @@
 ║ ├─── Introduction to Algorithms - CLRS (Dunod) ⭐  
 ║ └─── Computer Systems: A Programmer's Perspective (Pearson education)  
 ║  
-║ **bash-4.2$** cat skills  
-║ - System programming: C/C++, ASM (x86_64/RISC-V)  
+║ **bash-4.2$** cat Skills  
+║ - System programming: C/C++, ASM (x86_64/RISC-V/ARM)  
 ║ - OOP: Java / Scala / Python  
 ║ - Quantum: OpenQASM / Q#  
 ║  
