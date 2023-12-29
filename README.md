@@ -25,7 +25,7 @@
 ║ **bash-4.2$** cat Internship  
 ║ Internship at IRISA laboratory (Brittany, France):  
 ║ During my internship I've made and implementated a RISC-V (**RV32I**) processor on FPGA for educational purposes.  
-║ I've also designed a pipeline viewer for [**RARS**](https://github.com/TheThirdOne/rars) (using [**Konata**](https://github.com/shioyadan/Konata)).  
+║ I've also designed a pipeline viewer for [**RARS**](https://github.com/HadrienLopes/rars-pipeline) (using [**Konata**](https://github.com/shioyadan/Konata)).  
 ║  
 ║ **bash-4.2$** cat Readings  
 ║ ┌ **Quantum computing books**  
